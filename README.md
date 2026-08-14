@@ -11,7 +11,7 @@ Qui pubblico i sistemi che uso davvero sul lavoro, non demo.
 **[claude-skills](https://github.com/stefanomartiradonna/claude-skills)**
 24 Agent Skills per Claude Code che ho costruito per fare product marketing: diagnostica di posizionamento con Dunford, anchor framework di Estner, H1 con il metodo Fletch, business case alla Tharin, la mappa delle quattro superfici di Albanese. Non sono template di prompt. Ognuna fa le domande che farebbe un consulente, e si rifiuta di rispondere quando l'input è troppo povero.
 
-**[Tool-GTM-Analyzer](https://github.com/stefanomartiradonna/Tool-GTM-Analyzer)**
+**[Tool-GTM-Analyzer](https://github.com/stefanomartiradonna/Tool-GTM-Analyzer)** · **[provalo qui](https://backend-friend.lovable.app/)**
 Il GTM Power System, il mio framework a 16 elementi, trasformato in uno strumento diagnostico. Carichi i tuoi documenti di go-to-market e ricevi un audit con un punteggio per elemento, un tag (evidenza, assunzione, gap) e le tre priorità con il rischio a cascata. Nel repo: il knowledge layer da 64 file e la Edge Function che chiama Claude in tool-use a schema fisso.
 
 **[System-content-flywheel](https://github.com/stefanomartiradonna/System-content-flywheel)**
