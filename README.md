@@ -36,9 +36,13 @@ Sistema operativo per GTM engineering e outbound guidato dai segnali.
 
 ### Su cosa sto lavorando adesso
 
-Una tesi che si chiama **accumulo**: la maggior parte dei problemi di messaggio che vedo nelle aziende non sono problemi di copy, sono decisioni di prodotto mai prese. Le funzionalità si sono accumulate senza che nessuno scegliesse una direzione, e la homepage prova a raccontare quella pila come se fosse una strategia.
+Una tesi che chiamo **crescita per accumulo di features**.
 
-Sto scrivendo la serie che smonta il problema pezzo per pezzo, e costruendo le skill che servono a risolverlo.
+La maggior parte dei problemi che vedo nelle aziende non sono problemi di copy. Sono decisioni di prodotto prese in momenti diversi per motivi diversi. Una feature perché l'ha chiesta un cliente importante, una perché ce l'aveva il competitor, una perché era il trend del momento, una perché il founder ci credeva. Nessuna di queste decisioni era stupida: presa da sola, ognuna aveva senso.
+
+Il problema è la somma. Hai detto sì cento volte, e adesso hai un prodotto che fa cento cose senza che se ne capisca una. Nessuno di quei sì veniva da una tesi di prodotto: venivano dalla pressione. Il risultato lo vedi in homepage, che diventa un inventario di funzionalità elencate una per una e lascia al buyer il lavoro di capire cosa sei, cosa fai e perché dovrebbe sceglierti. Non lo farà. Chiude la tab.
+
+Sto scrivendo la serie che smonta il problema pezzo per pezzo, e costruisco le skill che servono a rimetterlo a posto. Non riscrivendo l'homepage: recuperando la tesi che decide cosa ha diritto di esistere e cosa no. Una narrazione coerente non è il lavoro da fare, è la conseguenza di un prodotto che ha ricominciato a dire di no.
 
 ---
 
